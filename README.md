@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Captain Snowball (Made up name)</h1>
-<h3 align="center">Chaotic yet disciplined full stack overflow developer.</h3>
+# Hi 👋, I'm Ravindra
+Full stack overflow developer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=securesnowball&label=Profile%20views&color=0e75b6&style=flat" alt="securesnowball" /> </p>
 
